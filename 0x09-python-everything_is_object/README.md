@@ -1,1 +1,1 @@
-Python Everything Is Object
+# Solutions to Python - Everything is object
